@@ -1,0 +1,31 @@
+name,hours,students,possible_teachers,is_elective,course_year
+Bilgisayar Bilimlerine Giriş,3,45,"Mehmet Amaç Güvensan;Göksel Biricik,Hafiza İrem Türkmen",0,1
+Fizik 1,2,45,"Nursel Can",0,1
+Matematik 1,2,45,"Pınar Albayrak",0,1
+Lineer Cebir,3,45,"Yaprak Dericioğlu",0,1
+İleri İngilizce 1,3,45,"Selçuk Gül",0,1
+İş Sağlığı ve Güvenliği 1,2,45,"Akbey Elçi",0,1
+Nesneye Yönelik Programlama,3,45,"Furkan Çakmak;Yunus Emre Selçuk;Mehmet Sıddık Aktaş",0,2
+Lojik Devreler,3,45,"Hamza Osman İlhan;Gökhan Bilgin",0,2
+Ayrık Matematik,3,45,"Banu Diri;Ahmet Elbir",0,2
+İstatistik ve Olasılık Hesapları,3,45,"Ayşe Dalgalı;Oğuz Altun",0,2
+Diferansiyel Denklemler,3,45,"Ayşe Dalgalı;Mehmet Fatih Amasyalı",0,2
+Sosyal Seçmeli 1,3,45,"Yavuz Çetin",1,2
+Seminer ve Meslek Etiği,3,45,"Göksel Biricik",0,3
+Veri Tabanı Yönetimi,3,45,"Mustafa Utku Kalay",0,3
+Algoritma Analizi,2,45,"Mehmet Amaç Güvensan;Mine Elif Karslıgil",0,3
+İşletim Sistemleri,2,45,"Ahmet Elbir",0,3
+Mikroişlemci Sistemleri ve Assembly Dili,3,45,"Furkan Çakmak;Erkan Uslu",0,3
+Türkçe 1,2,45,"Hilal Tufan",0,3
+Atatürk İlkeleri ve İnkılap Tarihi 1,2,45,"Şebnem Gelmedi",0,4
+Sosyal Seçmeli 2,3,45,"Osman Sukas",1,4
+Bilgisayar Mühendisliğinde Güncel Konular,3,45,"Ayşe Dalgalı",1,4
+Blokzincir Temelleri,3,45,"Oğuz Altun",1,4
+Yöneylem Araştırması,3,45,"Ayşe Buharalı Olcaysoy",1,4
+Veri Tabanı Sistemlerinin Gerçekleştirilmesi,3,45,"Mustafa Utku Kalay",1,4
+Bilgisayar Mühendisliğinde Özel Konular 1,3,45,"Emine Demircioğlu",1,4
+Bilgiye Erişim ve Arama Motorları,3,45,"Mehmet Sıddık Aktaş",1,4
+Bilişim Sistemleri Güvenliği,3,45,"Ali Gökhan Yavuz",1,4
+Yönetim Bilgi Sistemleri,3,45,"Oya Kalıpsız",1,4
+Yazılım Kalite ve Test Süreci,3,45,"Oya Kalıpsız",1,4
+Gömülü Sistemler,3,45,"Ali Can Karaca",1,4
